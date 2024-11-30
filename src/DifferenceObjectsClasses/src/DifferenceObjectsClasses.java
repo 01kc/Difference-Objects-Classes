@@ -1,3 +1,5 @@
+package src.DifferenceObjectsClasses.src;
+
 
 public class DifferenceObjectsClasses {
     
@@ -46,6 +48,8 @@ public class DifferenceObjectsClasses {
         System.out.println("Object 1: " + p1.getName() + ", " 
         + p1.getAge() + " has " + p1.getKidCount() + " children.");
 
+        System.out.println(); // blank line
+        
         System.out.println("Object 2: " + p2.getName() + ", " 
         + p2.getAge() + " has " + p2.getKidCount() + " children.");
         
